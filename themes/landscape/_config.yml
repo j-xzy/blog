@@ -12,9 +12,10 @@ fancybox: true
 # Sidebar
 sidebar: right
 widgets:
-- category
+# - category
 # - tag
 - tagcloud
+- toc
 # - archive
 # - recent_posts
 
